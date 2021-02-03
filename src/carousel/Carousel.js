@@ -1,3 +1,6 @@
+/**
+ * Test git fork
+ */
 import React, { Component } from 'react';
 import { Animated, Easing, FlatList, I18nManager, Platform, ScrollView, View, ViewPropTypes } from 'react-native';
 import PropTypes from 'prop-types';
